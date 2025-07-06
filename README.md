@@ -16,3 +16,9 @@ The aim of this lab is to show you how to fix some of the common issues that cou
 
 
 <h2>Program walk-through:</h2>
+
+<img src="https://i.imgur.com/YF64AzV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/bzYAPB2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/zKvwecP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
