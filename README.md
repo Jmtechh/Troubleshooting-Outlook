@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The aim of this lab is to show you how to fix some of the common issues that could prevent Outlook from running correctly.
+The aim of this lab is to show you how to fix the issue of Outlook not opening due to add-ins.
 
 
 <h2>Utilities Used</h2>
