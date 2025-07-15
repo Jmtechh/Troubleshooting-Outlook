@@ -7,12 +7,12 @@ The aim of this lab is to show you how to fix the issue of Outlook not opening d
 
 <h2>Utilities Used</h2>
 
-- <b>Windows Outlook</b>
+- <b>Outlook</b>
 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10 OS</b>
+- <b>Windows 10 </b>
 
 
 <h2>Program walk-through:</h2>
